@@ -5,7 +5,7 @@ Capacitor plugin to assist in leaving user reviews/ratings in the App Stores
 ## Install
 
 ```bash
-npm install capacitor-launch-review
+npm install @anuradev/capacitor-launch-review
 npx cap sync
 ```
 

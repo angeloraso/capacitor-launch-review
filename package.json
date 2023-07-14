@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-launch-review",
+  "name": "@anuradev/capacitor-launch-review",
   "version": "2.0.0",
   "description": "Capacitor plugin to assist in leaving user reviews/ratings in the App Stores",
   "main": "dist/plugin.cjs.js",
